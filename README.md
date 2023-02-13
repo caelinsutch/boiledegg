@@ -16,13 +16,26 @@ Have you ever wanted a website with soleley egg recipes. Nothing but pages and p
 
 ## Getting Started with Development
 
-This project is built of of [Angular 7](https://angular.io/), a web development framework built by google. We use [Angular Material](https://material.angular.io/) for front end components, and [Google Firebase](https://firebase.google.com/) for authentication and database. Interested in contributing? Fork this repository or send me a message on gitter to start working. 
+This project is built of of [Angular 7](https://angular.io/), a web development framework built by google. We use [Angular Material](https://material.angular.io/) for front end components, and [Google Firebase](https://firebase.google.com/) for authentication and database. Interested in contributing? Fork this repository or send me a message on gitter to start working.
 
-For more information about getting started with development, reference the wiki. 
+### Contributing Guidelines
+* When contributing, make sure you are working off of a forked repository 
+* When making pull requests, be descriptive about the changes you made
+* If the changes you made address a specific issue, make sure to reference the issue
+* Make sure that your changes fall in line with the repository liscence
+
+If you find a bug, fill out a copy of the bug_report.md file under .github/ISSUE_TEMPLATE and open a new issue for it.<br />
+If you have an idea for a feature, fill out a copy of the feature_request.md file under .github/ISSUE_TEMPLATE and open a new issue for it.
+
+To get started with development, you must first install all the necessary dependencies.<br />
+To install all of them, run `npm install`.<br />
+You may also need to run `ng update` and `npm update` in order to get the right version of Angular.<br />
+
+You are now ready to contribute.<br />
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. This line builds and serves the application. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
